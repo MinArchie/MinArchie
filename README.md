@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding, writing, and reading. I do enjoy baking when i'm sterssed. 
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ... not sure yet
-- 📫 How to reach me: don't.
+- 📫 How to reach me: swathi_kulkarni@yahoo.com
 
 <!---
 MinArchie/MinArchie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
